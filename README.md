@@ -9,6 +9,9 @@ Open up the "Instructions" folder to find the following files:
 	
 Link to Quest-OVR Unity Project zip file: https://drive.google.com/file/d/1vZa56ZXTJ4kCvRhQtSIU5siZopKwS9Ke/view?usp=sharing
 
+Link to Quest-OpenXR Unity Project zip file: https://drive.google.com/file/d/1BtI-Gxk3D42L53KbyQl-EdLpQElFhDMz/view?usp=sharing
+
+- Moz / Binary
 
 
 
