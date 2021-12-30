@@ -7,6 +7,8 @@ Open up the "Instructions" folder to find the following files:
 
 2. "Quest-OpenXR-Setup.pdf" - Contains instructions on how to setup a project for development using Unity, Quest 2, and the OpenXR SDK.
 	
-Along with it provided are .zip files for all the projects I made using Unity 2020.3.8f1. These should be named appropriately, and ready to use.
+Link to Quest-OVR Unity Project zip file: https://drive.google.com/file/d/1vZa56ZXTJ4kCvRhQtSIU5siZopKwS9Ke/view?usp=sharing
+
+
 
 
