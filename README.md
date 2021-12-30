@@ -1,4 +1,4 @@
-# Unity-VR-Base
+# Unity-VR-Base [COMPLETED]
  Base Unity Project files for setup with OVR and OpenXR. Created the instructions to help undergraduate students in my Professor's class; feel free to use the steps for quick and easy setup.
 
 Open up the "Instructions" folder to find the following files:
@@ -11,7 +11,8 @@ Link to Quest-OVR Unity Project zip file: https://drive.google.com/file/d/1vZa56
 
 Link to Quest-OpenXR Unity Project zip file: https://drive.google.com/file/d/1BtI-Gxk3D42L53KbyQl-EdLpQElFhDMz/view?usp=sharing
 
-- Moz / Binary
+
+|| Moz / Binary ||
 
 
 
