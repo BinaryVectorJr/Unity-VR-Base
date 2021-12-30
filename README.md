@@ -1,5 +1,5 @@
 # Unity-VR-Base
- Base Unity Project files for setup with OVR and OpenXR
+ Base Unity Project files for setup with OVR and OpenXR. Created the instructions to help undergraduate students in my Professor's class; feel free to use the steps for quick and easy setup.
 
 Open up the "Instructions" folder to find the following files:
 
